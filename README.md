@@ -3,7 +3,6 @@
 
 An interactive Power BI dashboard designed to analyze e-commerce profitability by evaluating revenue, costs, and profit margins across products, customer segments, marketing channels, and geographic locations.
 The project focuses on identifying the key factors that influence business profitability and operational efficiency.
-
 ### 🎯 Objective
 
 - Identify high and low profit margin product categories
