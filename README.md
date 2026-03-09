@@ -17,34 +17,16 @@ The project focuses on identifying the key factors that influence business profi
 
 ### 📂 Dataset Overview
  
-📊 Dataset Details
+The dataset contains e-commerce transactional data used to analyze revenue, costs, and profitability across different business dimensions. It includes information on orders, product categories, customer segments, acquisition channels, marketing campaigns, and geographic locations.
 
-- Rows: ~15,000 orders
+- Records: ~15,000 orders
 
-- Columns: 20+ business variables
+- Features: 20+ variables
 
-- Time Period: 2022 – 2024
+- Granularity: Order-level transaction data
 
-- Granularity: Order-level transactional data
-  <br>
+- Time Period: 2022–2024
 
-🗂 Key Features in the Dataset
-
-- Order Information: Order ID, Order Date, Order Year
-
-- Product Details: Product Category, Product Cost
-
-- Financial Metrics: Revenue, Profit, Discount, Net Profit
-
-- Operational Costs: Shipping Cost
-
-- Marketing Data: Acquisition Channel, Campaign Name, Ad Spend
-
-- Customer Insights: Customer Segment, Age Group
-
-- Geographic Data: City
-
-- Transaction Details: Payment Method, Coupon Code Usage
 
 ### 🧹 Data Cleaning (SQL)
 
@@ -56,7 +38,7 @@ Key steps performed:
 
 - Handled missing (NULL) values
 
--Corrected inconsistent data types
+- Corrected inconsistent data types
 
 - Standardized categorical values
 
@@ -122,3 +104,12 @@ Dashboard 2
 - Continue controlled discount strategies to maintain margin stability
 
 - Expand successful multi-channel acquisition strategy
+
+
+### 🧾 Conclusion
+
+The analysis highlights key factors influencing e-commerce profitability, including customer segments, acquisition channels, and discount strategies. The Power BI dashboard provides a clear view of revenue performance and profit margins, enabling data-driven decisions to improve marketing efficiency, pricing strategies, and overall business profitability.
+
+
+
+
