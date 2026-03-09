@@ -16,3 +16,41 @@ The project focuses on identifying the key factors that influence business profi
 
 - 📊 Enable data-driven decisions to improve overall profit margins
 
+### 📂 Dataset Overview
+ 
+📊 Dataset Details
+
+- Rows: ~15,000 orders
+
+- Columns: 20+ business variables
+
+- Time Period: 2022 – 2024
+
+- Granularity: Order-level transactional data
+
+🗂 Key Features in the Dataset
+
+- 🆔 Order Information: Order ID, Order Date, Order Year
+
+- 📦 Product Details: Product Category, Product Cost
+
+- 💰 Financial Metrics: Revenue, Profit, Discount, Net Profit
+
+- 🚚 Operational Costs: Shipping Cost
+
+- 📢 Marketing Data: Acquisition Channel, Campaign Name, Ad Spend
+
+- 👥 Customer Insights: Customer Segment, Age Group
+
+- 🌍 Geographic Data: City
+
+- 💳 Transaction Details: Payment Method, Coupon Code Usage
+
+
+### 🚀 Business Recommendations
+
+- Focus marketing investment on high-value loyal customers
+
+- Continue controlled discount strategies to maintain margin stability
+
+- Expand successful multi-channel acquisition strategy
