@@ -88,6 +88,33 @@ Key steps performed:
 💵 Net Profit: 39M  
 
 
+### 📊 Dashboard 1
+
+Dashboard 1 
+ ![Dashboard](https://github.com/prayagsinojia-ops/E-Commerce-Profit-Margin-Analysis/blob/main/e%20d%201.png)
+ 
+- Profit margin remained stable around 30–32%, indicating consistent pricing and cost management.
+
+- Loyal customer segment generated the highest revenue and profit, highlighting the value of customer retention.
+
+- Profit margins are consistent across acquisition channels, showing balanced marketing efficiency.
+
+- Geographic performance across cities shows similar profitability trends, indicating uniform pricing strategies.
+
+### 📊 Dashboard 2
+
+Dashboard 2
+ ![Dashboard](https://github.com/prayagsinojia-ops/E-Commerce-Profit-Margin-Analysis/blob/main/e%20d%202.png) 
+
+- Discount levels show minimal variation in profit margin, suggesting controlled promotional strategies.
+
+- Marketing campaigns generate balanced revenue contribution, indicating diversified acquisition sources.
+
+- Shipping and operational costs remain relatively stable, supporting consistent profit margins.
+
+- Customer purchasing behavior indicates steady order value across segments.
+
+
 ### 🚀 Business Recommendations
 
 - Focus marketing investment on high-value loyal customers
