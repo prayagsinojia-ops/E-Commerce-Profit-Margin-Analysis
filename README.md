@@ -4,7 +4,7 @@
 
 An interactive Power BI dashboard designed to analyze e-commerce profitability by evaluating revenue, costs, and profit margins across products, customer segments, marketing channels, and geographic locations.
 The project focuses on identifying the key factors that influence business profitability and operational efficiency.
-<br>
+<br><br>
 
 ### 🎯 Objective
 
@@ -16,7 +16,7 @@ The project focuses on identifying the key factors that influence business profi
 
 - Understand geographic performance across cities
 
-- Enable data-driven decisions to improve overall profit margins<br>
+- Enable data-driven decisions to improve overall profit margins<br><br>
 
 ### 📂 Dataset Overview
  
@@ -28,7 +28,7 @@ The dataset contains e-commerce transactional data used to analyze revenue, cost
 
 - Granularity: Order-level transaction data
 
-- Time Period: 2022–2024<br>
+- Time Period: 2022–2024<br><br>
 
 
 ### 🧹 Data Cleaning (SQL)
@@ -47,7 +47,7 @@ Key steps performed:
 
 -  Formatted date fields for time-based analysis
 
-- Created derived fields such as Profit Margin % for deeper insights<br>
+- Created derived fields such as Profit Margin % for deeper insights<br><br>
   
 
 ### 📊 Key KPI Metrics
@@ -70,7 +70,7 @@ Key steps performed:
 
 🎟 Total Discount: 11.24M
 
-💵 Net Profit: 39M  <br>
+💵 Net Profit: 39M  <br><br>
 
 
 ### 📊 Dashboard 1
@@ -95,7 +95,7 @@ Key steps performed:
 
 - Shipping and operational costs remain relatively stable, supporting consistent profit margins.
 
-- Customer purchasing behavior indicates steady order value across segments.<br>
+- Customer purchasing behavior indicates steady order value across segments.<br><br>
 
 
 ### 🚀 Business Recommendations
@@ -104,12 +104,12 @@ Key steps performed:
 
 - Continue controlled discount strategies to maintain margin stability
 
-- Expand successful multi-channel acquisition strategy<br>
+- Expand successful multi-channel acquisition strategy<br><br>
 
 
 ### 🧾 Conclusion
 
-The analysis highlights key factors influencing e-commerce profitability, including customer segments, acquisition channels, and discount strategies. The Power BI dashboard provides a clear view of revenue performance and profit margins, enabling data-driven decisions to improve marketing efficiency, pricing strategies, and overall business profitability.<br>
+The analysis highlights key factors influencing e-commerce profitability, including customer segments, acquisition channels, and discount strategies. The Power BI dashboard provides a clear view of revenue performance and profit margins, enabling data-driven decisions to improve marketing efficiency, pricing strategies, and overall business profitability.<br><br>
 
 
 
