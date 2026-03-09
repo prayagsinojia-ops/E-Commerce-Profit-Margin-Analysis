@@ -1,13 +1,10 @@
 # 📊 E-Commerce Profit Margin Analysis
 
-
-
 ### 🔎 Introduction
 
 An interactive Power BI dashboard designed to analyze e-commerce profitability by evaluating revenue, costs, and profit margins across products, customer segments, marketing channels, and geographic locations.
 The project focuses on identifying the key factors that influence business profitability and operational efficiency.
-
-
+<br>
 
 ### 🎯 Objective
 
@@ -19,7 +16,7 @@ The project focuses on identifying the key factors that influence business profi
 
 - Understand geographic performance across cities
 
-- Enable data-driven decisions to improve overall profit margins
+- Enable data-driven decisions to improve overall profit margins<br>
 
 ### 📂 Dataset Overview
  
@@ -31,7 +28,7 @@ The dataset contains e-commerce transactional data used to analyze revenue, cost
 
 - Granularity: Order-level transaction data
 
-- Time Period: 2022–2024
+- Time Period: 2022–2024<br>
 
 
 ### 🧹 Data Cleaning (SQL)
@@ -50,7 +47,7 @@ Key steps performed:
 
 -  Formatted date fields for time-based analysis
 
-- Created derived fields such as Profit Margin % for deeper insights
+- Created derived fields such as Profit Margin % for deeper insights<br>
   
 
 ### 📊 Key KPI Metrics
@@ -73,12 +70,11 @@ Key steps performed:
 
 🎟 Total Discount: 11.24M
 
-💵 Net Profit: 39M  
+💵 Net Profit: 39M  <br>
 
 
 ### 📊 Dashboard 1
 
-Dashboard 1 
  ![Dashboard](https://github.com/prayagsinojia-ops/E-Commerce-Profit-Margin-Analysis/blob/main/e%20d%201.png)
  
 - Profit margin remained stable around 30–32%, indicating consistent pricing and cost management.
@@ -91,7 +87,6 @@ Dashboard 1
 
 ### 📊 Dashboard 2
 
-Dashboard 2
  ![Dashboard](https://github.com/prayagsinojia-ops/E-Commerce-Profit-Margin-Analysis/blob/main/e%20d%202.png) 
 
 - Discount levels show minimal variation in profit margin, suggesting controlled promotional strategies.
@@ -100,7 +95,7 @@ Dashboard 2
 
 - Shipping and operational costs remain relatively stable, supporting consistent profit margins.
 
-- Customer purchasing behavior indicates steady order value across segments.
+- Customer purchasing behavior indicates steady order value across segments.<br>
 
 
 ### 🚀 Business Recommendations
@@ -109,12 +104,12 @@ Dashboard 2
 
 - Continue controlled discount strategies to maintain margin stability
 
-- Expand successful multi-channel acquisition strategy
+- Expand successful multi-channel acquisition strategy<br>
 
 
 ### 🧾 Conclusion
 
-The analysis highlights key factors influencing e-commerce profitability, including customer segments, acquisition channels, and discount strategies. The Power BI dashboard provides a clear view of revenue performance and profit margins, enabling data-driven decisions to improve marketing efficiency, pricing strategies, and overall business profitability.
+The analysis highlights key factors influencing e-commerce profitability, including customer segments, acquisition channels, and discount strategies. The Power BI dashboard provides a clear view of revenue performance and profit margins, enabling data-driven decisions to improve marketing efficiency, pricing strategies, and overall business profitability.<br>
 
 
 
