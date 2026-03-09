@@ -46,6 +46,25 @@ The project focuses on identifying the key factors that influence business profi
 
 - Transaction Details: Payment Method, Coupon Code Usage
 
+### 🧹 Data Cleaning (SQL)
+
+The dataset was cleaned and prepared using SQL to ensure data accuracy and consistency before analysis.
+
+Key steps performed:
+
+- Removed duplicate records
+
+- Handled missing (NULL) values
+
+-Corrected inconsistent data types
+
+- Standardized categorical values
+
+-  Formatted date fields for time-based analysis
+
+- Created derived fields such as Profit Margin % for deeper insights
+  
+
 ### 📊 Key KPI Metrics
 
 💰 Total Revenue: 144M
