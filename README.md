@@ -112,5 +112,20 @@ Key steps performed:
 The analysis highlights key factors influencing e-commerce profitability, including customer segments, acquisition channels, and discount strategies. The Power BI dashboard provides a clear view of revenue performance and profit margins, enabling data-driven decisions to improve marketing efficiency, pricing strategies, and overall business profitability.<br><br>
 
 
+### About Me
+Aspiring Data Analyst skilled in Python, SQL, Power BI, and Business Analytics.
+Actively building real-world analytics projects focused on business problem-solving.
+
+Contact: 97231 00943 <br>
+Gmail: prayagsinojia@gmail.com <br>
+prayagsinojiya-<a href='https://www.linkedin.com/in/prayagsinojiya/'>Linkdin</a><br><br><br>
+
+
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue?logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-F2C811?logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-150458?logo=pandas)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-EDA-orange?logo=jupyter)
+![Project Type](https://img.shields.io/badge/Type-Business%20Analytics-purple)
+![Status](https://img.shields.io/badge/Status-Completed-success)
 
 
