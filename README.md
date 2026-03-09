@@ -6,12 +6,13 @@ The project focuses on identifying the key factors that influence business profi
 
 ### 🎯 Objective
 
-📦 Identify high and low profit margin product categories
+- 📦 Identify high and low profit margin product categories
 
-💸 Analyze the impact of discounts and marketing spend on profitability
+- 💸 Analyze the impact of discounts and marketing spend on profitability
 
-📈 Evaluate customer segments and acquisition channels driving profit
+- 📈 Evaluate customer segments and acquisition channels driving profit
 
-🌍 Understand geographic performance across cities
+- 🌍 Understand geographic performance across cities
 
-📊 Enable data-driven decisions to improve overall profit margins
+- 📊 Enable data-driven decisions to improve overall profit margins
+
